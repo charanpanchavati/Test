@@ -4,7 +4,7 @@
  *  Description: Assignment 2
  *  			 To do Map side join
  ********************************************************/
-
+//This is MapJoin
 
 import java.io.BufferedReader;
 import java.io.FileReader;
